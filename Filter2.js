@@ -28,7 +28,7 @@ const Filter2 = ({
 
         }}>
             <Image
-            source = {require('assets/glasses-round.png')}
+            source = {require('glasses-round.png')}
             style = {{
                 width: glassesWidth,
                 height: glassesHeight,
